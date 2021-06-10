@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="db" uuid="86617327-b963-44d5-a3ec-32a33d1e22fb">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:C:\Users\65410\PycharmProjects\untitled\venv\database\db.sqlite3</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="Knowledge_Base" uuid="f0d054f2-5500-46db-899e-85410b703ff7">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:C:\Users\65410\PycharmProjects\untitled\venv\intelligent_system\Knowledge_Base.db</jdbc-url>
+    </data-source>
+  </component>
+</project>
